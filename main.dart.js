@@ -85042,7 +85042,7 @@ $3(a,b,c){var s=null
 return A.dz(s,A.fM(A.a8e(B.HA,B.u0,s,$.R().bB(40)),s,s),B.q,B.iN,s,s,s,s,s,s,s,s,s,s)},
 $S:556}
 A.Lk.prototype={
-M(a){var s=null,r=A.aw(a,s,t.w).w.a.a,q=r<600?20*$.R().gaW():20*$.R().gaW(),p=r<800,o=p?300*$.R().gaW():400*$.R().gaW(),n=p?400*$.R().gaG():600*$.R().gaG(),m=A.bc(s,60*$.R().gaG(),s),l=p?50:40
+M(a){var s=null,r=A.aw(a,s,t.w).w.a.a,q=r<600?20*$.R().gaW():20*$.R().gaW(),p=r<800,o=p?600*$.R().gaW():400*$.R().gaW(),n=p?400*$.R().gaG():600*$.R().gaG(),m=A.bc(s,60*$.R().gaG(),s),l=p?50:40
 return new A.bN(new A.aB(q,0,q,0),A.cw(A.b([m,new A.j_("\u062a\u0641\u0627\u0635\u064a\u0644 \u0645\u0646 "+this.c,A.bt(s,s,B.j,s,s,s,s,s,"IBMPlexSansArabic",s,s,$.R().bB(l),s,s,B.a3,s,s,!0,s,s,s,s,s,s,s,s),s),A.bc(s,30*$.R().gaG(),s),A.ay1(A.rk(a).Uc(A.bT([B.am,B.b_],t.A),!0),A.bc(A.aPd(new A.a3t(this,o,n),this.d.length,B.bg,new A.a3u()),n,1/0))],t.p),B.C,B.F,B.B),s)}}
 A.a3u.prototype={
 $2(a,b){return A.bc(null,null,12*$.R().gaW())},
@@ -85084,14 +85084,14 @@ A.LW.prototype={
 M(a){var s=null
 return A.cw(A.b([B.H4,A.bc(s,30*$.R().gaG(),s),B.H3,A.bc(s,50*$.R().gaG(),s),B.Rf,A.bc(s,50*$.R().gaG(),s)],t.p),B.C,B.F,B.B)}}
 A.LU.prototype={
-M(a){var s=null,r=t.w,q=A.aw(a,s,r).w.a.a<800,p=q?2:1
+M(a){var s=null,r=t.w,q=A.aw(a,s,r).w.a.a<800,p=q?2.5:1
 r=q?A.aw(a,s,r).w.a.a*0.95:A.aw(a,s,r).w.a.a*0.65
 return A.fM(A.dz(s,A.cw(A.b([new A.Ah("Flutter Developer \u2013 Al Nada Company","August 2024 \u2013 June 2025","Designed a seamless user interface that improved user engagement by 25%.Integrated robust API connections, improving data speed by 30%. Implemented responsive design for various screen sizes.",p,s),A.bc(s,20*$.R().gaG(),s),new A.Ah("Flutter Developer \u2013 Tamk Programming Company","June 2025 \u2013 Present","Developed modular Flutter apps using clean architecture.Built apps with Firebase, payment systems, and real-time chat Applied MVVM, BLoC, reusable widgets, and screen responsiveness.",p,s)],t.p),B.C,B.F,B.B),B.q,s,new A.ab(0,r,0,1/0),s,s,s,s,s,s,s,s,s),s,s)}}
 A.Ah.prototype={
 M(a){var s=this,r=null,q="IBMPlexSansArabic",p=s.f
 return A.cw(A.b([A.cA(s.c,r,r,A.bt(r,r,B.j,r,r,r,r,r,q,r,r,$.R().bB(25*p),r,r,B.a3,r,r,!0,r,r,r,r,r,r,r,r),B.aI,r),A.bc(r,4*$.R().gaG(),r),A.cA(s.d,r,r,A.bt(r,r,B.cZ,r,r,r,r,r,q,r,r,$.R().bB(16*p),r,r,B.a_,r,r,!0,r,r,r,r,r,r,r,r),B.aI,r),A.bc(r,10*$.R().gaG(),r),A.cA(s.e,r,r,A.bt(r,r,B.d0,r,r,r,r,r,q,r,r,$.R().bB(18*p),r,r,B.a_,r,r,!0,r,r,r,r,r,r,r,r),B.aI,r)],t.p),B.C,B.F,B.B)}}
 A.QC.prototype={
-M(a){var s,r,q,p=t.N,o=A.b([A.ar(["Dart","https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"],p,p),A.ar(["Flutter","https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"],p,p),A.ar(["BLoC","https://i1.wp.com/resocoder.com/wp-content/uploads/2020/08/blocsmol.png?w=694&ssl=1"],p,p),A.ar(["GetX","https://www.wladimirfilho.com/getx_logo.png"],p,p),A.ar(["MVVM","https://th.bing.com/th/id/R.85b5668257d8d11fa5ce0b2f9b02201c?rik=wQIQ6FuOIf4QGw&pid=ImgRaw&r=0"],p,p),A.ar(["SOLID","https://tse2.mm.bing.net/th/id/OIP.pl0icxmhhZPHdbSCwjzHtgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"],p,p),A.ar(["Firebase","https://static.vecteezy.com/system/resources/previews/053/066/797/non_2x/free-logo-firebase-free-png.png"],p,p),A.ar(["SQFLite","https://cdn-icons-png.flaticon.com/512/1792/1792486.png"],p,p),A.ar(["Maps","https://th.bing.com/th/id/R.0d3af2b49877a4305282ecf378b0d752?rik=BS4NLcqacmV3cA&pid=ImgRaw&r=0"],p,p),A.ar(["Payment","https://cdn-icons-png.flaticon.com/512/196/196561.png"],p,p),A.ar(["Figma","https://cdn-icons-png.flaticon.com/512/5968/5968705.png"],p,p),A.ar(["Git","https://cdn-icons-png.flaticon.com/512/2111/2111288.png"],p,p),A.ar(["Teamwork","https://cdn-icons-png.flaticon.com/512/2620/2620972.png"],p,p)],t.m0),n=A.aw(a,null,t.w).w.a.a<800,m=n?2:1
+M(a){var s,r,q,p=t.N,o=A.b([A.ar(["Dart","https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"],p,p),A.ar(["Flutter","https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"],p,p),A.ar(["BLoC","https://i1.wp.com/resocoder.com/wp-content/uploads/2020/08/blocsmol.png?w=694&ssl=1"],p,p),A.ar(["GetX","https://www.wladimirfilho.com/getx_logo.png"],p,p),A.ar(["MVVM","https://th.bing.com/th/id/R.85b5668257d8d11fa5ce0b2f9b02201c?rik=wQIQ6FuOIf4QGw&pid=ImgRaw&r=0"],p,p),A.ar(["SOLID","https://tse2.mm.bing.net/th/id/OIP.pl0icxmhhZPHdbSCwjzHtgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"],p,p),A.ar(["Firebase","https://static.vecteezy.com/system/resources/previews/053/066/797/non_2x/free-logo-firebase-free-png.png"],p,p),A.ar(["SQFLite","https://cdn-icons-png.flaticon.com/512/1792/1792486.png"],p,p),A.ar(["Maps","https://th.bing.com/th/id/R.0d3af2b49877a4305282ecf378b0d752?rik=BS4NLcqacmV3cA&pid=ImgRaw&r=0"],p,p),A.ar(["Payment","https://cdn-icons-png.flaticon.com/512/196/196561.png"],p,p),A.ar(["Figma","https://cdn-icons-png.flaticon.com/512/5968/5968705.png"],p,p),A.ar(["Git","https://cdn-icons-png.flaticon.com/512/2111/2111288.png"],p,p),A.ar(["Teamwork","https://cdn-icons-png.flaticon.com/512/2620/2620972.png"],p,p)],t.m0),n=A.aw(a,null,t.w).w.a.a<800,m=n?2.5:1
 p=n?30*$.R().gaW():0
 s=$.R().gaW()
 r=$.R().gaG()
@@ -85110,7 +85110,7 @@ A.aiK.prototype={
 $3(a,b,c){return B.HL},
 $S:561}
 A.LV.prototype={
-M(a){var s=null,r="IBMPlexSansArabic",q=A.aw(a,s,t.w).w.a.a<800,p=q?2:1,o=A.cA("Skills & Experience",s,s,A.bt(s,s,B.j,s,s,s,s,s,r,s,s,$.R().bB(55*p),s,s,B.a3,s,s,!0,s,s,s,s,s,s,s,s),B.aI,s),n=A.bc(s,20*$.R().gaG(),s),m=q?20*$.R().gaW():50*$.R().gaW()
+M(a){var s=null,r="IBMPlexSansArabic",q=A.aw(a,s,t.w).w.a.a<800,p=q?2.5:1,o=A.cA("Skills & Experience",s,s,A.bt(s,s,B.j,s,s,s,s,s,r,s,s,$.R().bB(55*p),s,s,B.a3,s,s,!0,s,s,s,s,s,s,s,s),B.aI,s),n=A.bc(s,20*$.R().gaG(),s),m=q?20*$.R().gaW():50*$.R().gaW()
 return A.cw(A.b([o,n,new A.bN(new A.aB(m,0,m,0),A.cA("The main area of expertise is Flutter development (client side of mobile apps).\nUsing Dart, BLoC, GetX, Firebase, clean architecture, and more to build beautiful & responsive apps.",s,s,A.bt(s,s,B.d0,s,s,s,s,s,r,s,s,$.R().bB(20*p),s,s,B.a_,s,s,!0,s,s,s,s,s,s,s,s),B.aI,s),s)],t.p),B.C,B.F,B.B)}}
 A.a3w.prototype={}
 A.ne.prototype={
