@@ -86229,7 +86229,7 @@ $3(a,b,c){var s=null
 return A.df(s,A.eX(A.N1(B.nG,B.k6,s,$.Q().by(40)),s,s),B.p,B.fd,s,s,s,s,s,s,s,s,s,s)},
 $S:201}
 A.LC.prototype={
-L(a){var s,r=null,q=t.w,p=A.at(a,r,q).w.a.a,o=p<600?20*$.Q().gaY():20*$.Q().gaY(),n=p<800,m=n?A.at(a,r,q).w.a.a*0.5:300*$.Q().gaY(),l=n?A.at(a,r,q).w.a.b*0.7:A.at(a,r,q).w.a.b*0.8
+L(a){var s,r=null,q=t.w,p=A.at(a,r,q).w.a.a,o=p<600?20*$.Q().gaY():20*$.Q().gaY(),n=p<800,m=n?A.at(a,r,q).w.a.a*0.6:300*$.Q().gaY(),l=n?A.at(a,r,q).w.a.b*0.65:A.at(a,r,q).w.a.b*0.8
 q=A.bd(r,60*$.Q().gaG(),r)
 s=n?50:40
 return new A.bJ(new A.ax(o,0,o,0),A.cB(A.b([q,new A.j2("\u062a\u0641\u0627\u0635\u064a\u0644 \u0645\u0646 "+this.c,A.bx(r,r,B.j,r,r,r,r,r,"IBMPlexSansArabic",r,r,$.Q().by(s),r,r,B.a3,r,r,!0,r,r,r,r,r,r,r,r),r),A.bd(r,30*$.Q().gaG(),r),A.ayO(A.ru(a).UI(A.bU([B.af,B.b1],t.B),!0),A.bd(A.aQd(new A.a3Z(this,m,l),this.d.length,B.b4,new A.a4_()),l,1/0))],t.p),B.C,B.F,B.B),r)}}
