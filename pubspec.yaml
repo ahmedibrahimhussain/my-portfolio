@@ -52,6 +52,8 @@ dependencies:
   font_awesome_flutter:
   url_launcher:
   responsive_framework: ^0.2.0
+  flutter_animate:
+  visibility_detector:
 
 dev_dependencies:
   flutter_test:

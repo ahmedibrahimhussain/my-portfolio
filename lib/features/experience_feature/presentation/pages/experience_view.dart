@@ -17,8 +17,8 @@ class ExperienceView extends StatelessWidget {
         SizedBox(height: 30.h),
         const ExperienceSection(),
         SizedBox(height: 50.h),
-        const SkillsSection(),        SizedBox(height: 50.h),
-
+        const SkillsSection(),
+        SizedBox(height: 50.h),
       ],
     );
   }
