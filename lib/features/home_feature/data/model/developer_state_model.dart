@@ -1,5 +1,5 @@
 class DeveloperStatsModel {
-  final int experienceYears;
+  final num experienceYears;
   final int mobileApps;
   final int webProjects;
 

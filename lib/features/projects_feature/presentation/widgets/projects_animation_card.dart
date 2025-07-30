@@ -71,12 +71,12 @@ class ProjectsAnimationCard extends StatelessWidget {
                     ),
                   ),
                   Expanded(
-                    flex: 4,
+                    flex: 3,
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(8.r),
                       child: Image.network(
                         imagePath,
-                        fit: BoxFit.cover,
+                        fit: BoxFit.fill,
                         width: double.infinity,
                       ),
                     ),
